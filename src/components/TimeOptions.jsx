@@ -47,9 +47,9 @@ const TimeOptions = ({ selectedAmount, selectTime }) => {
     <div>
       <div className="py-6 text-center text-white rounded-b-lg shadow-lg bg-gradient-to-r from-pink-500 to-indigo-500">
         <h1 className="text-xl font-extrabold leading-tight">
-          Danab - Cafe Castello
+          Danab - Java
           <br />
-          Taleex
+          Airport
         </h1>
         <p className="text-sm font-light">Dooro muddoada kugu habboon</p>
       </div>
