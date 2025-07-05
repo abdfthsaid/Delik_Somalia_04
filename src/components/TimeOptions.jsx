@@ -49,7 +49,7 @@ const TimeOptions = ({ selectedAmount, selectTime }) => {
         <h1 className="text-xl font-extrabold leading-tight">
           Danab - Java
           <br />
-          Airport
+          Airports
         </h1>
         <p className="text-sm font-light">Dooro muddoada kugu habboon</p>
       </div>
