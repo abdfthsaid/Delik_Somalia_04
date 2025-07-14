@@ -34,7 +34,7 @@ const PaymentSection = ({ selectedAmount, selectedMethod, selectMethod }) => {
         setProcessingStatus("processing");
       }, 3000);
     } catch (err) {
-      console.error("Payment failed:", err.response?.data || err.message);
+      
       setProcessingStatus("error");
 
       setTimeout(() => {
