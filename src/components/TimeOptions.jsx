@@ -51,7 +51,7 @@ const TimeOptions = ({ selectedAmount, selectTime }) => {
           <br />
           Somalia
         </h1>
-        <p className="text-sm font-light">Dooro muddada kugu habboon</p>
+        <p className="text-sm font-light">Dooro Muddada kugu habboon</p>
       </div>
 
       <div className="flex justify-between gap-3 mt-6 ml-3 mr-3">
